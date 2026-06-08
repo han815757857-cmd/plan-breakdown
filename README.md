@@ -36,7 +36,7 @@
 ### 安装 Skill
 
 ```bash
-npx skills add https://github.com/你的用户名/plan-breakdown -g
+npx skills add https://github.com/han815757857-cmd/plan-breakdown -g
 ```
 
 ---
